@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<!-- @Ellis Yeboah, Ellis Interests Page
+Southern Illinois University Developed: 9-2026  Tested: 9-2026  
+--> 
+-->
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Interests</title> 
+        <link rel="stylesheet" href="style/main.css">
+        <meta name="description" content="Interests"> <meta name="keywords" content="personal interests, hobbies, work">
+    </head>
+    <body>   
+        <header>
+       
+        </header> 
+        <nav id="mobile_menu"></nav>
+        <nav id="nav_menu">
+            <ul>
+                <li><a href="index.htm" class="current">Home</a></li>
+                <li><a href="education.htm">Education</a></li>
+                <li><a href="interests.htm">Interests</a></li>
+                <li><a href="occupation.htm">Occupation</a></li>
+                <li><a href="contact.htm" class="lastitem">Contact</a></li>
+            </ul> 
+        </nav>
+        <h1>Ellis Yeboah's</h1>
+        <h2>Interests</h2>
+        <p>This page is about my interests</p>
+       <main>
+           <h2>Education</h2>
+           <h2>1.) Mount Carmel High School</h2>
+           <h2>2.) SIU</h2>
+           <h2>3.) St. Marys</h2>
+       </main>
+       <aside>
+           <h2>Professional</h2>
+           <h2>1.) Hotel Front desk </h2>
+           <h2>2.) Camp organiser</h2>
+       </aside>
+    </body>
+
+</html>
